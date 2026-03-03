@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <h2>hii am nitin</h2>
-  <h1>nitin beldar</h1>
-  <h1>akash lohar</h1>
-  <!-- Animated intro banner -->
+<!-- Animated intro banner -->
 <img
   align="center"
   width="100%"
@@ -189,5 +178,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chaudhariGaurav07&theme=radical&no-bg=true&margin-w=10" />
 </p>
-</body>
-</html>
